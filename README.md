@@ -19,3 +19,8 @@ To run the web service:
     4. API "http://localhost:8080/account/{accountId}" to get user portfolio details with all distributed assets information
     
    
+API Documentation using Swagger:
+
+1. http://localhost:8080/swagger-ui.html to check the API documentation.
+
+2. we can verify the methods implemented in our web service. 
