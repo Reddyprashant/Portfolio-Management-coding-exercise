@@ -12,7 +12,7 @@ To run the web service:
                           {
                     "firstName" : "abc",
                     "lastName" : "def",
-                    "dateOfBirth" : 01/01/1980,
+                    "dateOfBirth" : 01-01-1980,
                     "asset": 9809
                   }
                   
